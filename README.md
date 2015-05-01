@@ -4,6 +4,7 @@ Combines Cucumber with Selenium Webdriver in a Page Object model framework. Firs
 This project is based on the following sources:
 
 1) The Selenium Guidebook for Java by Dave Haeffner
+
 2) Thomas Sundberg's blog post from 2011 on testing with cucumber and Webdriver: https://thomassundberg.wordpress.com/2011/10/18/testing-a-web-application-with-selenium-2/
 (but abstracts out the Webdriver commands into base page methods to future proof the tests a bit more and make the code itself less verbose)
 
