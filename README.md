@@ -17,8 +17,8 @@ then update VM options accordingly
 
 SAUCELABS
 VM option: -Dhost=saucelabs
-(This is entered in the VM options currently for each test - need to set up a parameters file I think
-Local execution: -Dhost=localhost
+(This is entered in the VM options currently for each test).
+For local execution: -Dhost=localhost
 
 The saucerest library has been added to the pom.xml so we can set a pass or fail in the saucelabs dashboard instead of just showing as "Finished"
 
