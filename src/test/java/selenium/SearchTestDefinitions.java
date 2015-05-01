@@ -25,7 +25,7 @@ import static junit.framework.Assert.assertTrue;
 //firefox or chrome using the argument -Dbrowser=chrome or -Dbrowser=firefox for the time being
 //
 
-public class SearchTestDefinitions extends Base {
+public class SearchTestDefinitions /* extends Base */ implements Config {
     private WebDriver driver;
     private HomePage home;
     private SearchResultPage searchResult;
