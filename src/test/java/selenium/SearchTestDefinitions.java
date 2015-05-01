@@ -7,8 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  import cucumber.api.java.After;
  import cucumber.api.java.Before;
  import cucumber.api.java.en.*;
-import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
+
 import pageObjects.HomePage;
   import pageObjects.LocationPage;
   import pageObjects.SearchResultPage;
