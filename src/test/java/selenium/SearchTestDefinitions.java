@@ -17,7 +17,7 @@ import java.net.URL;
 import static junit.framework.Assert.assertTrue;
 
 //
-//TODO: update this class to extend class 'Base'...
+//TODO: update this class to extend class 'Base' and remove implements Config...
 //Comment the @Before and @After annotations here so the system uses those in the base class instead
 //result = nullpointer
 //if commenting out just the @After, the driver fails to quit
