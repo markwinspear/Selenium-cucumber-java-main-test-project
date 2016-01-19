@@ -8,6 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  import cucumber.api.java.Before;
  import cucumber.api.java.en.*;
 
+import pageObjects.Config;
 import pageObjects.HomePage;
   import pageObjects.LocationPage;
   import pageObjects.SearchResultPage;
