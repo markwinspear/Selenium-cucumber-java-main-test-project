@@ -1,4 +1,4 @@
-# SeleniumCucumberJavaBasicTest2
+# Selenium-cucumber-java-main-test-project
 Combines Cucumber with Selenium Webdriver in a Page Object model framework. First test
 
 This project is to test a simple setup involving Cucumber-JVM and WebDriver using Page Object Models and is based on the following sources:
